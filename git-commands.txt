@@ -1,0 +1,6 @@
+git init
+git status
+git add 'file'
+git commit -m "massege"
+git restore 'file'
+git cache rm 'file'
